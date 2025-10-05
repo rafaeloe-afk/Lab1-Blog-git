@@ -1,2 +1,1 @@
-# Lab1-Blog-git
-Actividad 1. Unipro. Asignatura: Desarrollo de aplicaciones en red
+1º Actividad de la asignatura Desarrollo de aplicaciones en red. Del año 2025-2026
