@@ -1,0 +1,6 @@
+[
+  { "nombre": "Gazpacho Manchego", "archivo": "recetas/gazpacho.html" },
+  { "nombre": "Ajo Arriero", "archivo": "recetas/ajo-arriero.html" },  
+  { "nombre": "Tarta de queso manchega", "archivo": "recetas/tarta-queso.html" },
+  { "nombre": "Perrunillas manchegas", "archivo": "recetas/perrunillas.html" }
+]

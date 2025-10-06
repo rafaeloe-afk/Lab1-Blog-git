@@ -9,26 +9,28 @@
 
 
     </head>
-    <body onload="greet()">
+    <body>
         <header><h1>Actividad 1. Creación de blog</h1></header>
         <nav>
             <ul>
-                <li><a href="#home">Home</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#services">Services</a></li>
-                <li><a href="#contact">Contact</a></li>
+                <li><a href="#" onclick="cargarContenido('recetas/bienvenida.html')">Inicio</a></li>
+                <li><a href="#" onclick="cargarContenido('about.html')">Sobre el bloguero</a></li>                
             </ul>
         </nav> 
-        <main>
-        <section id="cuerpo">
-            <h2>Welcome to my blog</h2>
-            <p>This is a simple blog layout created with HTML and CSS.</p>
-        <p> Hello world</p>
-        <button onclick="alert('Un click')">Clickea</button>
-        </section> 
+        <main id="contenido">
+                <!-- El contenido de las recetas se cargarán aquí dinámicamente -->    
         </main>
+
+        <aside>
+            <h3>Recetas</h3>
+            <ul id="lista-recetas">
+                <!-- Las recetas se cargarán aquí dinámicamente -->
+            </ul>
+        </aside>
+       
+
         <footer>
-            <p>&copy; 2024 My Blog</p>
+            <p>&copy; RAFAEL OLIVARES </p>
         </footer>
 
     </body>

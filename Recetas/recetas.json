@@ -1,0 +1,13 @@
+[
+  { "nombre": "Pisto Manchego", "archivo": "recetas/pisto.html" },
+  { "nombre": "Migas Manchegas", "archivo": "recetas/migas.html" },
+  { "nombre": "Gachas Manchegas", "archivo": "recetas/gachas.html" },
+  { "nombre": "Gazpacho Manchego", "archivo": "recetas/gazpacho.html" },
+  { "nombre": "Ajo Arriero", "archivo": "recetas/ajo-arriero.html" },
+  { "nombre": "Atascaburras", "archivo": "recetas/atascaburras.html" },
+  { "nombre": "Caldereta de cordero", "archivo": "recetas/caldereta-cordero.html" },
+  { "nombre": "Sopa manchega", "archivo": "recetas/sopa-manchega.html" },
+  { "nombre": "Quesadas manchegas", "archivo": "recetas/quesadas.html" },
+  { "nombre": "Tarta de queso manchega", "archivo": "recetas/tarta-queso.html" },
+  { "nombre": "Perrunillas manchegas", "archivo": "recetas/perrunillas.html" }
+]
